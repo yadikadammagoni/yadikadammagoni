@@ -5,7 +5,7 @@
   - 📫 How to reach me yadika.dammagoni@aogjob.com
   - 😄 Pronouns: She/Her
 # - 🚀 Actively Looking for New Opportunities
-  - I'm actively looking for new job opportunities in data analysis and related fields!
+  - I'm actively looking for new job opportunities in data analysis and data science fields!
 
 <!---
 yadikadammagoni/yadikadammagoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
